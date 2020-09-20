@@ -63,6 +63,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr style="width:200px" class="w3-opacity">
     <p>I like to experiment with new tools and technologies.
     </p>
+    <p>
+    This is a test for verifying sync to IBM cloud foundry.
+    </p>
     <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
     <p class="w3-wide">RedHat OpenShift</p>
     <div class="w3-white">
